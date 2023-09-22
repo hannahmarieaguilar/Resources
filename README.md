@@ -12,6 +12,7 @@ Resources based on my lab work!
   - once you pick nano/VIM/VSCode you will write a script file in them
 
 |Examples | Extension|
+|--------|------------|
 | Bash | .sh|
 | Python | .py|
 |R | .r|
