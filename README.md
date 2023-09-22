@@ -9,7 +9,7 @@ Resources based on my lab work!
     - VSCode (just make a test file)
  
       
-                                           &#8595;
+&#8595;
 
 
 
@@ -28,7 +28,7 @@ Note: extensions are indicators of what language the script should be written in
 
 
 
-                                         &#8595;
+&#8595;
 
 
 
